@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = ture
+	symlinks = false
+	ignorecase= true
+[user]
+email=zuilvzuile@163.com
+name=huozuilv
